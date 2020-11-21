@@ -1,0 +1,39 @@
+# Site settings
+name: Kudzai Mabika
+title: Kudzai Mabika| Undergrad
+description: Undergrand student working towards becoming a Software Engineer
+url: https://kmabika.github.io
+baseurl: 'https://kmabika.github.io'
+email: kdmab10@gmail.com
+cover: 
+logo:   https://kmabika.github.io/img/emojis/technologist.png
+resume: https://kmabika.github.io/Kudzai_Mabika_CV.pdf
+social:
+  - title: email
+    url: mailto:kdmab10@gmail.com
+  - title: github
+    url: https://github.com/kmabika
+  - title: linkedin
+    url: https://www.linkedin.com/in/kudzaimabika
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

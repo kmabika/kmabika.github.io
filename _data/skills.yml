@@ -1,0 +1,27 @@
+languages:
+  - item: Java
+  - item: JavaScript (ES6)
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+  - item: SQL
+  - item: PHP
+
+frameworks:
+  - item: SpringBoot
+  - item: Jekyll
+
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Chrome DevTools
+  - item: Postman
+  
+
+infosec:
+  - item: Kali Linux
+  - item: Burp Suite
+  - item: Owasp Zap
+  - item: Wireshark
+

@@ -1,0 +1,24 @@
+- name: Personal Website V2
+  url:  http://kmabika.me
+  code: https://github.com/kmabika/kmabika.github.io
+  description: Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
+  used:
+    - thing: Jekyll
+    - thing: Handlebars
+    - thing: SCSS
+    - thing: JavaScript
+    - thing: Github Pages
+
+- name: Personal Website V1
+  url:  http://kmabika.me/v1/
+  code: https://github.com/kmabika/v1
+  description: My first personal websie, learn how to use Jekyll by keeping everything minimalistic.
+  used:
+    - thing: Jekyll
+    - thing: Handlebars
+    - thing: SCSS
+    - thing: JavaScript
+    - thing: Github Pages
+
+
+
